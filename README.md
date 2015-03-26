@@ -1,1 +1,1 @@
-# jQuery-lesson
+# Mini-lessons
