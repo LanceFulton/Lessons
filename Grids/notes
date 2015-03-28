@@ -1,0 +1,48 @@
+* INTRODUCTION:
+  
+  - download repo
+  - if you don't have emmet it's all good.
+  - group project: easier prototyping
+    -someone is going to have to make it pretty
+
+* OBJECTIVE:
+
+  - Foundation + Bootstrap Grid
+  - Emmet keyboard shortcuts
+
+* FLOW:
+
+  - Show the grid (code then browser)
+    - Foundation vs Bootstrap (Basic Syntax)
+    - responsiveness
+    - show .row
+  - Do color blocks to show small-12 medium-3 change. 
+    -Show border blocks to show small-12, medium-4, large-2
+
+  - show layout and try to replicate it.
+  - we will use emmet to do the whole thing. 
+
+* WRAP UP:
+
+  -Extra things bootstrap and foundation shows.
+
+  
+
+* when it this knowledge will come in handy
+* explain the layout (what kind of website I want to draw out)
+* grid system (show diagrams). 
+* go over just prototyping (lorem stuff/ lorem pictures)
+* emmet (link to cheatsheet)
+* show them .rows and the indentation that it provides. (demonstrate pre determined stuff)
+* show them scaling (small-12 large-6)
+* example of built in stuff (http://foundation.zurb.com/docs/css.html)
+
+
+index.html replace small with mediums and put small-12 to show responsive design.
+
+links: 
+//videos
+https://www.youtube.com/watch?v=kk6KpKK5Jjc
+//foundation grid and bootstrap grid (google)
+//Emmet docs:
+http://docs.emmet.io/cheat-sheet/
